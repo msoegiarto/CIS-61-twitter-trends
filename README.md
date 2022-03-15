@@ -1,1 +1,1 @@
-# CIS-61-twitter-trends
+The Twitter Trends project made for CIS 61
